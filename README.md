@@ -1,13 +1,13 @@
-# The Nifli.com Feature Toggle Client for Java
+# The Togglize.com Feature Toggle Client for Java
 
-[Nifli.com](https://nifli.com) offers Feature Flags (aka Feature Toggles) for B2B SaaS companies. This is the java client for [Nifli.com](https://nifli.com) Feature Toggles (herein called Toggles).
+[Togglize.com](https://togglize.com) offers Feature Flags (aka Feature Toggles) for B2B SaaS companies. This is the java client for [Togglize.com](https://togglize.com) Feature Toggles (herein called Toggles).
 
 ## Getting started
 
 Add a dependency to the pom.xml file:
 ```xml
 <dependency>
-	<groupId>com.nifli</groupId>
+	<groupId>com.togglize</groupId>
 	<artifactId>toggles-client-java</artifactId>
  	<version>1.0.0-SNAPSHOT</version>
 </dependency>
